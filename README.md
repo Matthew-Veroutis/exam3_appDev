@@ -1,1 +1,1 @@
-# exam3_appDev
+git config --global --add safe.directory '*'
